@@ -1,0 +1,13 @@
+# Private eval artifacts (raw cases, transcripts, runs) — may contain sensitive context
+evals/private/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor
+.vscode/
+.idea/
